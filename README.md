@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on MCP server
+- 🔭 I’m currently working on Typescript and Java related products
 - 🌱 I’m currently learning how to create MCP servers 
 - 🤼 I’m looking to collaborate on cool tech products to solve customer problems
 - 💬 Ask me about anything that intrests you
