@@ -7,6 +7,6 @@
 - 📫 I can be reached at `bala.prasanv@gmail.com`
 
 
-Language stats
+## **Language stats**
 
 ![langstat](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanvb&size_weight=0.5&count_weight=0&layout=compact)
