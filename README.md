@@ -6,7 +6,7 @@
 - 🚀 Highlights: shipped high-traffic apps, modernized legacy systems, and strengthened quality with automated testing
 - 🤝 Open to collaboration on customer-centric product building and mentoring
 - 💬 Ask me about React, TypeScript, Spring Boot, testing, performance, or accessibility  
-- 📫 Reach me at `bala.prasanv@gmail.com` — always excited to craft 🛠️ applications that inspire and make a difference
+- 📫 `bala.prasanv@gmail.com` — always excited to craft 🛠️ applications that inspire and make a difference
 
 
 ## **Language stats**
