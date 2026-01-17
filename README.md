@@ -7,8 +7,3 @@
 - 🤝 Open to collaboration on customer-centric product building and mentoring
 - 💬 Ask me about React, TypeScript, Spring Boot, testing, performance, or accessibility  
 - 📫 `bala.prasanv@gmail.com` — always excited to craft 🛠️ applications that inspire and make a difference
-
-
-## **Language stats**
-
-![langstat](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanvb&size_weight=0.5&count_weight=0&layout=compact)
